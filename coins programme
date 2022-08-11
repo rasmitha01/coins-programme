@@ -1,0 +1,16 @@
+
+#include <stdio.h>
+int main()
+int arrangecoins;
+{
+    int k=1,n;
+while(k<=n)
+{
+            n-=k++;
+        }    
+
+    return k-1;
+}
+OUTPUT:
+5
+2
